@@ -10,3 +10,7 @@ Here the Five Tips to make your blog successfull:
 * Be sure that your blog is sharable.
 * Create an informative blog.
 * Topics should be easy to remember.
+
+Sofia Harisson at: <a href="http://iguestblog.com/">iguestblog</a>
+
+
